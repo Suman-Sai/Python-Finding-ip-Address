@@ -1,0 +1,1 @@
+This Python script allows you to find the IP addresses associated with a given hostname or website using the IPVoid service. It also provides a simple graphical user interface (GUI) for entering the hostname and displaying the IP addresses.
